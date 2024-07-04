@@ -12,5 +12,22 @@ hr {
     margin-top:50px ; 
 }
 
+@media(max-width: 730px){
+
+    ul{
+        font-size: 0.9rem;
+    }
+
+}
+
+
+@media(max-width: 530px){
+
+    
+    ul{
+        font-size: 0.7rem;
+    }
+    
+}
 
 
